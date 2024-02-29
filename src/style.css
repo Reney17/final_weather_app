@@ -1,10 +1,15 @@
 body {
-  background-image: url("/final_weather_app/images/picture.webp");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
-  background-size: cover;
-  font-family: "Roboto", sans-serif;
+  background-image: linear-gradient(
+      to bottom,
+      rgb(255 255 0 / 50%),
+      rgb(0 0 255 / 50%)
+    ),
+    url("images/picture.webp");
+  background-image: inherit;
+  background-image: initial;
+  background-image: revert;
+  background-image: revert-layer;
+  background-image: unset;
 }
 
 a {
