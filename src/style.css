@@ -1,5 +1,9 @@
 body {
-  background-color: #e0ebeb;
+  background-image: url("/final_weather_app/images/picture.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
   font-family: "Roboto", sans-serif;
 }
 
