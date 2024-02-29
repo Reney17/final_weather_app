@@ -1,15 +1,6 @@
 body {
-  background-image: linear-gradient(
-      to bottom,
-      rgb(255 255 0 / 50%),
-      rgb(0 0 255 / 50%)
-    ),
-    url("images/picture.webp");
-  background-image: inherit;
-  background-image: initial;
-  background-image: revert;
-  background-image: revert-layer;
-  background-image: unset;
+  background-color: #cadefc;
+  font-family: "Roboto", sans-serif;
 }
 
 a {
