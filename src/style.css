@@ -1,6 +1,6 @@
 body {
-  background-image: url(final_weather_app/images/background.avif);
-  background-color: #cadefc;
+  background-image: url(images/background.avif);
+  background-size: cover;
   font-family: "Roboto", sans-serif;
 }
 
